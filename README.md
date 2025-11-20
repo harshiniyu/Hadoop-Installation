@@ -1,4 +1,8 @@
 # Hadoop Installation on Windows (Single Node Setup)
+```
+Name : HARSHINI Y
+Reg No : 212223240050
+```
 
 > **Prerequisite:** Hadoop requires **Java 1.8** installed on your system.
 
